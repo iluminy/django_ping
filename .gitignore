@@ -1,0 +1,12 @@
+# Config
+django_ping/.conf
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# JetBrains IDE
+.idea/
