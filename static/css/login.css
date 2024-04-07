@@ -1,0 +1,18 @@
+.main-content.login {
+    max-width: 1000px;
+    margin: 0 auto;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-form {
+    width: 300px;
+    height: min-content;
+}
+.login-form input {
+    margin-bottom: 10px;
+}
+.error-msg {
+    color: #ff0000;
+}

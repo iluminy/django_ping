@@ -1,6 +1,9 @@
 # Config
 django_ping/.conf
 
+# Database
+db.sqlite3
+
 # Byte-compiled
 __pycache__/
 *.py[cod]
