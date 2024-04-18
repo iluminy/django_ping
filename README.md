@@ -70,12 +70,6 @@ Visit container through cli.
 sudo docker exec -it django_ping_webserver bash
 ```
 
-Activate venv.
-
-```
-source venv/bin/activate
-```
-
 Apply migrations.
 
 ```
